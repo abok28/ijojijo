@@ -7,8 +7,8 @@ if (!file_exists('token')) {
 
 include ("curl.php");
 echo "\n";
-echo "\e[94m            [THANKS TO SGB TEAM X HENDI]              \n";
-echo "\e[94m            [Re-Code by Admin SGB X Sharing Garapan]              \n";
+echo "\e[94m            [THANKS TO Dimas Budi Sans]              \n";
+echo "\e[94m            [Re-Code by Admin Antapani]              \n";
 echo "\e[91m FORMAT NOMOR HP  INDONESIA '62***' , US='1***'\n";
 echo "\e[93m SCRIPT GOJEK AUTO REGISTER + AUTO CLAIM VOUCHER\n";
 echo "\n";
